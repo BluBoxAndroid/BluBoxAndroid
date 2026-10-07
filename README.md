@@ -6,7 +6,7 @@
 
 Android developer & self-hoster. I build useful tools with clean, reproducible builds — currently working on proxy clients powered by the **sing-box** core.
 
-### 🧰 技术栈
+### 🧰 Tech Stack
 
 <div>
   <img src="assets/badge-android.svg" height="28" />
