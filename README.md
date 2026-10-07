@@ -24,7 +24,7 @@ Android developer & self-hoster. I build useful tools with clean, reproducible b
 ### 📊 Top Languages
 
 <div align="center">
-  <img src="assets/languages.svg" width="600" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BluBoxAndroid&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
 </div>
 
 ### 📈 Activity
