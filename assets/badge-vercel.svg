@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="30" role="img" aria-label="Vercel">
+  <rect width="84" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+  <circle cx="17" cy="15" r="5" fill="#FFFFFF"/>
+  <text x="30" y="20" font-family="system-ui, sans-serif" font-size="13" fill="#e6edf3">Vercel</text>
+</svg>

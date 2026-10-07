@@ -23,6 +23,14 @@ Android developer & self-hoster. I build useful tools with clean, reproducible b
   <img src="assets/badge-bash.svg" height="28" />
   <img src="assets/badge-nginx.svg" height="28" />
   <img src="assets/badge-cloudflare.svg" height="28" />
+  <img src="assets/badge-ffmpeg.svg" height="28" />
+  <img src="assets/badge-nodejs.svg" height="28" />
+  <img src="assets/badge-githubactions.svg" height="28" />
+  <img src="assets/badge-vless.svg" height="28" />
+  <img src="assets/badge-ech.svg" height="28" />
+  <img src="assets/badge-postgresql.svg" height="28" />
+  <img src="assets/badge-redis.svg" height="28" />
+  <img src="assets/badge-vercel.svg" height="28" />
 </div>
 
 ---
