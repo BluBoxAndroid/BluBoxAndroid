@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="316" viewBox="0 0 640 316">
+<rect width="640" height="316" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="26" y="42" font-family="system-ui,sans-serif" font-size="20" font-weight="700" fill="#f0f6fc">Top Languages</text>
+<defs><clipPath id="lbar"><rect x="26" y="60" width="588" height="12" rx="6"/></clipPath></defs>
+<g clip-path="url(#lbar)">
+<rect x="26.0" y="60" width="441.9" height="12" fill="#A97BFF"/>
+<rect x="467.9" y="60" width="92.3" height="12" fill="#b07219"/>
+<rect x="560.2" y="60" width="50.4" height="12" fill="#00ADD8"/>
+<rect x="610.6" y="60" width="2.9" height="12" fill="#89e051"/>
+<rect x="613.6" y="60" width="2.0" height="12" fill="#8b949e"/>
+</g>
+<circle cx="34" cy="114" r="6" fill="#A97BFF"/>
+<text x="50" y="119" font-family="system-ui,sans-serif" font-size="14" fill="#e6edf3">Kotlin</text>
+<text x="614" y="119" text-anchor="end" font-family="system-ui,sans-serif" font-size="14" fill="#8b949e">75.2%</text>
+<circle cx="34" cy="150" r="6" fill="#b07219"/>
+<text x="50" y="155" font-family="system-ui,sans-serif" font-size="14" fill="#e6edf3">Java</text>
+<text x="614" y="155" text-anchor="end" font-family="system-ui,sans-serif" font-size="14" fill="#8b949e">15.7%</text>
+<circle cx="34" cy="186" r="6" fill="#00ADD8"/>
+<text x="50" y="191" font-family="system-ui,sans-serif" font-size="14" fill="#e6edf3">Go</text>
+<text x="614" y="191" text-anchor="end" font-family="system-ui,sans-serif" font-size="14" fill="#8b949e">8.6%</text>
+<circle cx="34" cy="222" r="6" fill="#89e051"/>
+<text x="50" y="227" font-family="system-ui,sans-serif" font-size="14" fill="#e6edf3">Shell</text>
+<text x="614" y="227" text-anchor="end" font-family="system-ui,sans-serif" font-size="14" fill="#8b949e">0.5%</text>
+<circle cx="34" cy="258" r="6" fill="#8b949e"/>
+<text x="50" y="263" font-family="system-ui,sans-serif" font-size="14" fill="#e6edf3">AIDL</text>
+<text x="614" y="263" text-anchor="end" font-family="system-ui,sans-serif" font-size="14" fill="#8b949e">0.1%</text>
+</svg>

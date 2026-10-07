@@ -1,0 +1,60 @@
+<div align="center">
+  <img src="assets/header.svg" width="100%" alt="BoxNest" />
+</div>
+
+### Hi there, I'm BoxNest 👋
+
+Android developer & self-hoster. I build useful tools with clean, reproducible builds — currently working on proxy clients powered by the **sing-box** core.
+
+### 🧰 技术栈
+
+<div>
+  <img src="assets/badge-android.svg" height="28" />
+  <img src="assets/badge-kotlin.svg" height="28" />
+  <img src="assets/badge-java.svg" height="28" />
+  <img src="assets/badge-go.svg" height="28" />
+  <img src="assets/badge-python.svg" height="28" />
+  <img src="assets/badge-singbox.svg" height="28" />
+  <img src="assets/badge-docker.svg" height="28" />
+  <img src="assets/badge-debian.svg" height="28" />
+</div>
+
+---
+
+### 📊 Top Languages
+
+<div align="center">
+  <img src="assets/languages.svg" width="600" alt="Top languages" />
+</div>
+
+### 📈 Activity
+
+<div align="center">
+  <img src="assets/activity.svg" width="100%" alt="Contribution activity" />
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="assets/github-snake.svg" />
+  </picture>
+</div>
+
+### 🚀 Projects
+
+| Project | What it is |
+|---|---|
+| **[BluBox](https://github.com/BoxNest/BluBox)** | Custom Android proxy client based on NekoBox, powered by the sing-box core. Clean UI, zero bundled nodes, GPLv3. |
+
+### 🧰 Self-hosted lab
+
+A small fleet of Debian VPS running Docker, sing-box nodes (Hysteria2 + ECH, VLESS + Reality), health monitoring and daily hygiene — all scripted, all reproducible.
+
+---
+
+<div align="center">
+  <sub>BoxNest · build something useful</sub>
+</div>
