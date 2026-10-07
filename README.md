@@ -25,6 +25,7 @@ Android developer & self-hoster. I build useful tools with clean, reproducible b
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BluBoxAndroid&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=BluBoxAndroid&hide_border=true&theme=tokyonight&date_format=Y.n.j" alt="Contribution streak" />
 </div>
 
 ### 📈 Activity
