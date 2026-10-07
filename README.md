@@ -8,34 +8,17 @@ Android developer & self-hoster. I build useful tools with clean, reproducible b
 
 ### 🧰 Tech Stack
 
-<div>
-  <img src="assets/badge-android.svg" height="28" />
-  <img src="assets/badge-kotlin.svg" height="28" />
-  <img src="assets/badge-java.svg" height="28" />
-  <img src="assets/badge-go.svg" height="28" />
-  <img src="assets/badge-python.svg" height="28" />
-  <img src="assets/badge-singbox.svg" height="28" />
-  <img src="assets/badge-docker.svg" height="28" />
-  <img src="assets/badge-debian.svg" height="28" />
-  <img src="assets/badge-hysteria2.svg" height="28" />
-  <img src="assets/badge-gradle.svg" height="28" />
-  <img src="assets/badge-git.svg" height="28" />
-  <img src="assets/badge-bash.svg" height="28" />
-  <img src="assets/badge-nginx.svg" height="28" />
-  <img src="assets/badge-cloudflare.svg" height="28" />
-  <img src="assets/badge-ffmpeg.svg" height="28" />
-  <img src="assets/badge-nodejs.svg" height="28" />
-  <img src="assets/badge-githubactions.svg" height="28" />
-  <img src="assets/badge-vless.svg" height="28" />
-  <img src="assets/badge-ech.svg" height="28" />
-  <img src="assets/badge-postgresql.svg" height="28" />
-  <img src="assets/badge-redis.svg" height="28" />
-  <img src="assets/badge-vercel.svg" height="28" />
-  <img src="assets/badge-gemini.svg" height="28" />
-  <img src="assets/badge-gdrive.svg" height="28" />
-  <img src="assets/badge-gplay.svg" height="28" />
-  <img src="assets/badge-gcloud.svg" height="28" />
-  <img src="assets/badge-firebase.svg" height="28" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,git,github,githubactions,python,go,nodejs,bash,docker,nginx,cloudflare,postgres,redis,debian,firebase,gcp,vercel,ts,js,html,css&theme=dark" alt="Tech stack" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/sing--box-1.14-00ADD8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hysteria2-proxy-FF4081?style=flat-square" />
+  <img src="https://img.shields.io/badge/VLESS-Reality-7B61FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/ECH-enabled-FF6B35?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gemini-AI-8E24AA?style=flat-square" />
+  <img src="https://img.shields.io/badge/FFmpeg-video-007808?style=flat-square" />
 </div>
 
 ---
