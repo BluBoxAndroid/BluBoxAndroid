@@ -31,6 +31,11 @@ Android developer & self-hoster. I build useful tools with clean, reproducible b
   <img src="assets/badge-postgresql.svg" height="28" />
   <img src="assets/badge-redis.svg" height="28" />
   <img src="assets/badge-vercel.svg" height="28" />
+  <img src="assets/badge-gemini.svg" height="28" />
+  <img src="assets/badge-gdrive.svg" height="28" />
+  <img src="assets/badge-gplay.svg" height="28" />
+  <img src="assets/badge-gcloud.svg" height="28" />
+  <img src="assets/badge-firebase.svg" height="28" />
 </div>
 
 ---
