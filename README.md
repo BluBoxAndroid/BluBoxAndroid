@@ -17,6 +17,12 @@ Android developer & self-hoster. I build useful tools with clean, reproducible b
   <img src="assets/badge-singbox.svg" height="28" />
   <img src="assets/badge-docker.svg" height="28" />
   <img src="assets/badge-debian.svg" height="28" />
+  <img src="assets/badge-hysteria2.svg" height="28" />
+  <img src="assets/badge-gradle.svg" height="28" />
+  <img src="assets/badge-git.svg" height="28" />
+  <img src="assets/badge-bash.svg" height="28" />
+  <img src="assets/badge-nginx.svg" height="28" />
+  <img src="assets/badge-cloudflare.svg" height="28" />
 </div>
 
 ---
