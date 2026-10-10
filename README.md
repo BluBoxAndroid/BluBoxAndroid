@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="assets/header.svg" width="100%" alt="BoxNest" />
-</div>
+# BluBoxAndroid
 
 ### Hi there, I'm BoxNest 👋
 
@@ -36,15 +34,7 @@ Android developer & self-hoster. I build useful tools with clean, reproducible b
   <img src="assets/activity.svg" width="100%" alt="Contribution activity" />
 </div>
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="assets/github-snake.svg" />
-  </picture>
-</div>
+BluBoxAndroid
 
 ### 🚀 Projects
 
