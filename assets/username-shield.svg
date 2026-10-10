@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="220" viewBox="0 0 1280 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="shieldGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#1f6feb"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#30363d" opacity="0.55"/>
+    </pattern>
+    <clipPath id="bannerClip"><rect width="1280" height="220" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#bannerClip)">
+    <rect width="1280" height="220" fill="url(#bg)"/>
+    <rect width="1280" height="220" fill="url(#dots)"/>
+    <g transform="translate(480,35)">
+      <path d="M60 10 L110 30 V85 C110 130 88 160 60 175 C32 160 10 130 10 85 V30 Z" fill="url(#shieldGrad)" opacity="0.9"/>
+      <path d="M40 80 L58 98 L82 62" stroke="#ffffff" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="620" y="145" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="72" font-weight="800" fill="#f0f6fc">BluBox<tspan fill="#58a6ff">Android</tspan></text>
+  </g>
+  <rect width="1280" height="220" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
+</svg>

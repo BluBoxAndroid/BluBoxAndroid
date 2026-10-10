@@ -1,4 +1,6 @@
-# BluBoxAndroid
+<div align="center">
+  <img src="assets/username-shield.svg" width="100%" alt="BluBoxAndroid" />
+</div>
 
 ### Hi there, I'm BoxNest 👋
 
