@@ -21,7 +21,9 @@ Android developer & self-hoster. I build useful tools with clean, reproducible b
   <img src="https://img.shields.io/badge/FFmpeg-video-007808?style=flat-square" />
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=70" width="100%" alt="wave divider" />
+</div>
 
 ### 📊 Top Languages
 
@@ -36,7 +38,19 @@ Android developer & self-hoster. I build useful tools with clean, reproducible b
   <img src="assets/activity.svg" width="100%" alt="Contribution activity" />
 </div>
 
-BluBoxAndroid
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="assets/github-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=70" width="100%" alt="wave divider" />
+</div>
 
 ### 🚀 Projects
 
@@ -48,7 +62,9 @@ BluBoxAndroid
 
 A small fleet of Debian VPS running Docker, sing-box nodes (Hysteria2 + ECH, VLESS + Reality), health monitoring and daily hygiene — all scripted, all reproducible.
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="wave footer" />
+</div>
 
 <div align="center">
   <sub>BoxNest · build something useful</sub>
