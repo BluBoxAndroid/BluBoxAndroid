@@ -2,6 +2,10 @@
   <img src="assets/username-shield.svg" width="100%" alt="BluBoxAndroid" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=600&color=58a6ff&lines=Android+Developer;Proxy+Client+Builder;Self-hoster" alt="Typing animation" />
+</div>
+
 ### Hi there, I'm BoxNest 👋
 
 Android developer & self-hoster. I build useful tools with clean, reproducible builds — currently working on proxy clients powered by the **sing-box** core.
