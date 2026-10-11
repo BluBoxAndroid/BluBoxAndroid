@@ -17,7 +17,7 @@ Android developer & self-hoster. I build useful tools with clean, reproducible b
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/sing--box-1.14-00ADD8?style=flat-square" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/BluBoxAndroid/BluBox/main/sing-box-version.json&query=$.sing-box&label=sing-box&color=00ADD8&style=flat-square" />
   <img src="https://img.shields.io/badge/Hysteria2-proxy-FF4081?style=flat-square" />
   <img src="https://img.shields.io/badge/VLESS-Reality-7B61FF?style=flat-square" />
   <img src="https://img.shields.io/badge/ECH-enabled-FF6B35?style=flat-square" />
