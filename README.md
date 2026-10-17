@@ -61,6 +61,7 @@ Android developer & self-hoster. I build useful tools with clean, reproducible b
 | Project | What it is |
 |---|---|
 | **[BluBox](https://github.com/BoxNest/BluBox)** | Custom Android proxy client based on NekoBox, powered by the sing-box core. Clean UI, zero bundled nodes, GPLv3. |
+| **[OwnBox for Android](https://github.com/Own716/OwnBoxForAndroid)** | Reference project by Own716 — some BluBox features are inspired by its design. |
 
 ### 🧰 Self-hosted lab
 
